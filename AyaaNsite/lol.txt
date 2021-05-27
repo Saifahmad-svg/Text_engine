@@ -1,0 +1,4 @@
+CREATE TABLE employee_table (cd1 varchar(10), cd2 varchar(10),cd3 varchar(10),cd4 integer(10));
+SELECT * FROM employee_table;
+CREATE TABLE employee_table (emp_id varchar(10), emp_name varchar(10),department varchar(10),salary integer(10));
+INSERT VALUES INTO employee_table('E','Nikhil','HR','40000');
